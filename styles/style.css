@@ -82,7 +82,7 @@ h2 {
 
 .main-logo {
     border-radius: 25px;
-    animation-name: spin;
+   
     animation: pulse 5s infinite ease-in-out;
 }
 
@@ -142,5 +142,10 @@ footer {
   .button {
       border-radius: 15px;
       background-color: orangered;
+
+  }
+  .quizResults {
+
+    display: none;
 
   }
