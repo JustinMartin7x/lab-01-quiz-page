@@ -1,7 +1,7 @@
 
 body {
     background-image: url(../assets/background.png);
-    transform: rotate(45deg);
+    /* transform: rotate(45deg); */
     
     --header-height: 80px;
     --shadow: 0px 10px 20px -12px rgba(0,0,0,0.45);
